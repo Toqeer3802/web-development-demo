@@ -1,2 +1,2 @@
 # web-development-demo
-This is my first Git program
+This is my first Git repository
